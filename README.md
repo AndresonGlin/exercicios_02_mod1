@@ -33,8 +33,8 @@ crescente, usando map, sort.</li>
 cada chave é um cliente e o valor é a soma de todos os seus total.</li>
   
 <li><strong>Conversão Entre Formatos:</strong> Escreva duas funções:
-- paresParaObjeto(pares) recebe um array de pares [ [chave, valor], ... ] e retorna o objeto equivalente.
-- objetoParaPares(obj) faz o inverso, retornando um array de pares.</li>
+1 paresParaObjeto(pares) recebe um array de pares [ [chave, valor], ... ] e retorna o objeto equivalente.
+2 objetoParaPares(obj) faz o inverso, retornando um array de pares.</li>
 </ol>
 
 <h2>Como Executar</h2>
